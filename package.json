@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuniusTech/tododys.git"
+    "url": "git+https://github.com/mongoDBTemplate/tododys.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuniusTech/tododys/issues"
+    "url": "https://github.com/mongoDBTemplate/tododys/issues"
   },
-  "homepage": "https://github.com/JuniusTech/tododys#readme",
+  "homepage": "https://github.com/mongoDBTemplate/tododys#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
